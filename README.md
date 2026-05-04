@@ -9,5 +9,5 @@ chmod +x install.sh
 ``` 
 ### TERMUX DOWNLOAD LINK
 ```
-https://github.com/termux/termux-app
+https://github.com/hanxinhao000/ZeroTermux
 ```
