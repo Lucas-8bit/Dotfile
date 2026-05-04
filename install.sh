@@ -1,10 +1,7 @@
 #!/bin/bash
 
 # ============================================================
-# SUPER SCRIPT DE SETUP PARA TERMUX - LENOVO TAB M9 OTIMIZADO
-# ============================================================
-# Autor: Script Robusto para Ambiente de Desenvolvimento
-# Versão: 3.2 - Corrigido: remove mensagens de boas-vindas + zoxide
+#           SUPER SCRIPT DE SETUP PARA TERMUX 
 # ============================================================
 
 # ============================================================
@@ -872,7 +869,7 @@ install_nvchad() {
     
     cat > "$HOME/.config/nvim/lua/custom/init.lua" << 'EOF'
 -- ============================================================
--- CONFIGURAÇÕES CUSTOMIZADAS PARA TABLET LENOVO
+-- CONFIGURAÇÕES CUSTOMIZADAS
 -- ============================================================
 
 -- Otimizações para tablet
@@ -1163,12 +1160,12 @@ main() {
     clear
     echo ""
     echo "╔══════════════════════════════════════════════════════════════╗"
-    echo "║                                                              ║"
-    echo "║     🚀 SETUP COMPLETO PARA TERMUX - LENOVO TAB M9           ║"
-    echo "║                                                              ║"
-    echo "║     Ambiente de Desenvolvimento Profissional                 ║"
-    echo "║     Versão: 3.2 - Sem msgs boas-vindas + zoxide fix        ║"
-    echo "║                                                              ║"
+    echo "║                                                                         ║"
+    echo "║                   🚀 SETUP COMPLETO PARA TERMUX                         ║"
+    echo "║                                                                         ║"
+    echo "║               Ambiente de Desenvolvimento Profissional                  ║"
+    echo "║            Versão: 3.2 - Sem msgs boas-vindas + zoxide fix              ║"
+    echo "║                                                                         ║"
     echo "╚══════════════════════════════════════════════════════════════╝"
     echo ""
     
