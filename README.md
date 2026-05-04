@@ -3,7 +3,10 @@
 
 #### COMMANDS ZeroTermux
 ```
-https://github.com/Lucas-8bit/Dotfile.git
+cd
+pkg i git -y
+git clone https://github.com/Lucas-8bit/Dotfile.git
+cd Dotfile
 chmod +x install.sh
 ./install.sh
 ``` 
