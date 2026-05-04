@@ -6,7 +6,6 @@
 https://github.com/Lucas-8bit/Dotfile.git
 chmod +x install.sh
 ./install.sh
-
 ``` 
 ### TERMUX DOWNLOAD LINK
 ```
