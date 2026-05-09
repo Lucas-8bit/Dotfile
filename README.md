@@ -36,24 +36,24 @@ para dá permição adb no shzuku:
 
 Como usar:
 
-1. Salve o conteúdo em um arquivo chamado Optimization.sh no armazenamento interno do do dispositivo(eu usei no tab m9 da lenovo)
+1. Salve o conteúdo em um arquivo chamado Optimization.sh no armazenamento interno do do dispositivo (eu usei no tab m9 da lenovo)
 2. No Termux com Shizuku ativo, execute:
 
-    ```
+   ```
     chmod +x rish
    ./rish
    ```
    
 4. Dentro do shell RISH, navegue até onde salvou o arquivo:
 
-    ```
+   ```
    cd /Dotfile
    ```
    
 5. Execute o script:
 
-    ```
+   ```
    sh Optimization.sh
    ```
     
-6. Após terminar, reinicie o tablet para aplicar todas as mudanças
+6. Após terminar, reinicie o dispositivo para aplicar todas as mudanças
