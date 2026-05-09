@@ -23,15 +23,15 @@ https://github.com/hanxinhao000/ZeroTermux
 
 para usar o adb shell do shzuku no mesmo aparelho:
 
-    ```
+    
     https://youtu.be/ydmwfrZYmZw?si=bcSf3IQAPKy-SmUH
-    ```
+    
 
 para dá permição adb no shzuku:
 
-    ```
+    
     https://youtu.be/APolZrPHSms?si=ugAlDqgVLhHCwumC
-    ```
+    
 
 
 Como usar:
