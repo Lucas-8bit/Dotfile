@@ -11,7 +11,3 @@ chmod +x install.sh
 ./install.sh
 exit
 ``` 
-### ZeroTermux DOWNLOAD LINK
-```
-https://github.com/hanxinhao000/ZeroTermux
-```
